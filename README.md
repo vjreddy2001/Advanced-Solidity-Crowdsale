@@ -1,1 +1,1 @@
-# Advanced-Solidity-Crowdsale-
+# Advanced-Solidity-Crowdsale
